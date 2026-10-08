@@ -40,7 +40,7 @@ print("title fun",s.title())
 s="  my name is soham pakhare   "
 print(s.strip())
 
-#create a list of 10 numbers print the sum of  last 4 element of thr list  find ou t he defrant betwwen maximum and minimum 3insert a number in a list in a 6 th position this number must be 1/3 of number stored at 4th position
+
 
 
 # replace all  vowls with Z
