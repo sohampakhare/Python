@@ -1,4 +1,4 @@
-#
+#4 th question
 
 with open('file1.txt','r') as f:
     w=[]
